@@ -17,8 +17,9 @@ In this arcade game, you'll travel through space while you defeat the earth from
 
 ### Files:
 Scratch file can be found at:
+- Scratch website:  https://scratch.mit.edu/projects/793197552
 - SB3 file: [Jellyfish_Invaders.sb3](./Scratch/FS1060_Assignment_1_Jellyfish_Invaders.sb3)
 
 ### Credits:
 The bubbles background and the spaceship sprites were downloaded from the following website:
-https://www.seekpng.com/
+- https://www.seekpng.com/
